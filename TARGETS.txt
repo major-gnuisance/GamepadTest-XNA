@@ -1,0 +1,19 @@
+Available build targets:
+  * release
+    Build with optimization options, output to bin/Release
+    Convenience alias: r
+
+  * debug
+    Build with debug options, output to bin/Debug
+    Convenience alias: d
+
+  * run
+    Build the release target and run the resulting executable
+    Convenience alias: rr
+
+  * debugrun
+    Build the debug target and run the resulting executable
+    Convenience alias: dr
+
+  * clean
+    Remove build directories

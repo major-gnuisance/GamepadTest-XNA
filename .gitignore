@@ -1,0 +1,12 @@
+bin/
+obj/
+FNA.dll
+FNA.dll.config
+lib32/
+lib64/
+*.pidb
+*.userprefs
+*.suo
+*~
+*.swp
+#*
